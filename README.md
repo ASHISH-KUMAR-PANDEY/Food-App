@@ -1,4 +1,4 @@
-# Food4Foodies
+# Food4Foodies <img src = "https://github.com/ASHISH-KUMAR-PANDEY/Food-App/blob/master/images/food4foodies.png" align="right">
 We've Created an Android App focused on catering college students/staff with optimized Food Orders for in-or-off Campus Food Vendors. This application uses data from reviews, feedback and types of order for effective Food ordering System.
 
 ----------------
